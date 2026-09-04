@@ -1,30 +1,21 @@
 # Custom Arduino Uno Clone PCB
 
-A hardware-design project documenting the development of a custom Arduino Uno-compatible printed circuit board.
+This repository documents the development of a custom Arduino Uno-compatible printed circuit board (PCB).
 
-## Contents
+## Overview
 
-- `PCB REPORT .pdf` — design report and supporting project documentation
+The project focuses on designing an Arduino Uno clone PCB and presenting the hardware-development work in a structured report.
 
-## Project scope
+## Documentation
 
-This repository presents the PCB-development work for an Arduino Uno clone. Consult the report for the schematic, layout, component selection, design rationale, and validation details.
+The repository includes the following project document:
 
-## Recommended repository additions
+- `PCB REPORT .pdf` — report covering the custom Arduino Uno clone PCB project.
 
-To make the hardware design easier to reproduce and review, add:
+## Project Purpose
 
-- Editable source files from the PCB design tool (KiCad, EasyEDA, Eagle, etc.)
-- Fabrication-ready Gerber and drill archives
-- Bill of materials (BOM) and pick-and-place file
-- Schematic and board-layout exports
-- Assembly, programming, and test instructions
-- Board revision, known issues, and license
+This project demonstrates the design process behind an Arduino Uno-compatible PCB, including the planning, circuit design, and board-development work documented in the report.
 
-## Safety and validation
+## How to View
 
-Inspect power polarity, regulator thermal limits, USB interface behavior, and continuity before powering a fabricated board. Test with current limiting on first power-up.
-
-## License
-
-No license has been specified. Add one before reusing, manufacturing, or distributing this design.
+Open `PCB REPORT .pdf` to review the project documentation.
