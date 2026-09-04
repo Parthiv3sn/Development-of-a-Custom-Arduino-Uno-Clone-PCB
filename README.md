@@ -1,4 +1,4 @@
-# Development-of-a-Custom-Arduino-Uno-Clone-PCB
+# Custom Arduino Uno Clone PCB
 
 A hardware-design project documenting the development of a custom Arduino Uno-compatible printed circuit board.
 
